@@ -3,7 +3,7 @@
 Eine kleine Wetter-App mit HTML, CSS und JavaScript.  
 Sie nutzt die [OpenWeatherMap API](https://openweathermap.org/api), um aktuelle Wetterdaten anzuzeigen.
 
-🔗 **Live-Demo:** 
+🔗 **Live-Demo:** [Hier ansehen](https://mephju90.github.io/wetter-app/)
 
 ## ⚙️ Funktionen
 
