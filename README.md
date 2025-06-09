@@ -11,7 +11,7 @@ Sie nutzt die [OpenWeatherMap API](https://openweathermap.org/api), um aktuelle 
 - Temperatur, Wetterlage und Windgeschwindigkeit anzeigen
 - Fehlerbehandlung bei ungültigen Eingaben
 
-## 🛠 Verwendete Technologien
+## 🔧 Verwendete Technologien
 
 - HTML5
 - CSS3
