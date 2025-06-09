@@ -15,9 +15,9 @@ Sie nutzt die [OpenWeatherMap API](https://openweathermap.org/api), um aktuelle 
 
 - HTML5
 - CSS3
-- JavaScript (fetch, async/await)
+- JavaScript 
 - OpenWeatherMap API
-- GitHub Pages (für Hosting)
+- GitHub Pages 
 
 ## ✍️ Autor
 
